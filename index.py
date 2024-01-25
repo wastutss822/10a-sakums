@@ -1,1 +1,2 @@
 print('sveiks')
+print('Ainārs')
